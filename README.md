@@ -1,6 +1,12 @@
 ## CAPIT
 
-The CAPit web app is well designed and intuitive. It achieves the goal of making aerosols, carbon, and plankton data easily accessible and understandable for elementary students. It was designed for NASA SpaceApps Hackathon 2024, Athlone. 
+The CAPit web app is well designed and intuitive. It achieves the goal of making aerosols, carbon, and plankton data easily accessible and understandable for elementary students. It was designed for NASA SpaceApps Hackathon 2024, Athlone by Aerospace Tutors for the challenge PACE in the classroom.
+
+## Aerospace tutors group
+1. Adetunji Ayoade (Group Owner)
+2. Alapan Bagchi
+3. Rooshmica Ramesh
+4. Oluwatimilehin Ajakaiye
 
 Strengths:
 
