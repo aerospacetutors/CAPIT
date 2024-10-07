@@ -1,3 +1,17 @@
+## CAPIT
+
+The CAPit web app is well designed and intuitive. It achieves the goal of making aerosols, carbon, and plankton data easily accessible and understandable for elementary students. It was designed for NASA SpaceApps Hackathon 2024, Athlone. 
+
+Strengths:
+
+User-Friendly: The layout is simple and easy to navigate. The minimalistic design ensures that students and teachers won’t feel overwhelmed by too much information.
+Interactive Visuals: The data visualization of aerosol, carbon, and plankton activity in different regions is a great feature. Students can explore how these elements interact in their region over time.
+Real-World Connection: The ability to track changes over time and see real data from their locality makes the app highly educational and interactive.
+
+This repository contains images of program running. You can also view app running at this address while Google access is available: https://neat-airport-437700-e3.ew.r.appspot.com  
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
